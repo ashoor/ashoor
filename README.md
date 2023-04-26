@@ -41,7 +41,3 @@ Hi there 👋, My name is Mohamed Eldeeb. Self-taught programmer, passionate and
 ![Postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=Postgresql)&nbsp;
 ![mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
 
-
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
